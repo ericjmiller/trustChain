@@ -20,9 +20,11 @@
     "grunt-sails-linker": "^0.10.1",
     "grunt-sync": "^0.5.2",
     "include-all": "^1.0.8",
+    "jquery": "^3.2.1",
     "rc": "^1.0.1",
     "sails": "^0.12.14",
     "sails-disk": "^0.10.10",
+    "truffle-contract": "^3.0.0",
     "web3": "^1.0.0-beta.23"
   },
   "scripts": {
